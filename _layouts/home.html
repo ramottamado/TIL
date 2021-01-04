@@ -4,6 +4,9 @@ layout: default
 <script type="application/ld+json">
   {% include schema.liquid %}
 </script>
+<div>
+{{ content }}
+</div>
 <div class="blog">
   <ul class="post-list">
     {%- for post in site.posts limit: 20 -%}
