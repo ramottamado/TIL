@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="256"
    inkscape:export-xdpi="256"
-   inkscape:export-filename="/home/ramot/Documents/workspace/design/favicon/favicon.png"
-   inkscape:version="1.0 (1.0+r73+1)"
-   sodipodi:docname="favicon-newcolor.svg"
+   inkscape:export-filename="/home/ramot/Documents/workspace/design/favicon.png"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="favicon.svg"
    id="SVGRoot"
    version="1.1"
    viewBox="0 0 192 192"
-   height="192px"
-   width="192px">
+   height="192"
+   width="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4908">
     <inkscape:perspective
@@ -29,8 +28,8 @@
        inkscape:vp_x="0 : 96 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient5548">
+       id="linearGradient5548"
+       inkscape:swatch="solid">
       <stop
          id="stop5546"
          offset="0"
@@ -62,10 +61,10 @@
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="96.000003"
+       y2="96"
        x2="138.27013"
-       y1="96.000003"
-       x1="53.729865"
+       y1="96"
+       x1="53.729866"
        id="linearGradient5550"
        xlink:href="#linearGradient5548"
        inkscape:collect="always" />
@@ -90,35 +89,27 @@
      showguides="true"
      inkscape:grid-bbox="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="708"
-     inkscape:window-width="1366"
+     inkscape:window-height="1011"
+     inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="89.203634"
-     inkscape:cx="39.849951"
+     inkscape:cy="136.82516"
+     inkscape:cx="40.039921"
      inkscape:zoom="1.8856181"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:pagecheckerboard="0"
+     scale-x="1.5">
     <inkscape:grid
        id="grid4935"
        type="xygrid" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide4979"
-       orientation="0,1"
-       position="96,96" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide4981"
-       orientation="1,0"
-       position="96,96" />
   </sodipodi:namedview>
   <metadata
      id="metadata4911">
@@ -128,7 +119,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -138,21 +128,21 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <circle
-       r="96"
        cy="96"
        cx="96"
        id="path4953"
-       style="fill:#24292e;fill-opacity:1;stroke-width:1.0257082" />
+       style="fill:#1b1f24;fill-opacity:1;stroke-width:1.02571"
+       r="96" />
     <rect
        ry="0"
-       y="46"
-       x="46"
-       height="100"
-       width="100"
+       y="48"
+       x="48"
+       height="96"
+       width="96"
        id="rect166"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:1.34290171" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.28919" />
     <rect
-       style="display:inline;fill:#24292e;fill-opacity:1;stroke-width:0.80574113"
+       style="display:inline;fill:#1b1f24;fill-opacity:1;stroke-width:0.805745"
        id="rect975"
        width="60"
        height="60"
