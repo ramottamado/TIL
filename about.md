@@ -1,6 +1,6 @@
 ---
 title: About
 layout: page
-last_modified_at: 2021-01-04 16:51 +0700
+lastmod: 2022-02-10 00:12 +0700
 ---
 Today I learned.
